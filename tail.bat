@@ -1,0 +1,1 @@
+java -jar ./out/artifacts/Lab2_jar/Lab2.jar tail %1 %2 %3
